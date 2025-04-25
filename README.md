@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Eduardo Alkimim
+# 👩🏻‍💻 Eduardo Alkimim Reis
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Eduardo Alkimim Reis, tenho 19 anos e sou natural do Distrito Federal. Concluí o ensino médio no SESI, com o curso técnico em Matemática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICEPLAC. Sou apaixonado por tecnologia e busco me aprimorar todos os dias
+Me chamo Eduardo Alkimim Reis, tenho 19 anos e sou natural do Distrito Federal. Concluí o ensino médio no SESI, com o curso técnico em Matemática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICEPLAC. Sou apaixonado por tecnologia e busco me aprimorar com novas tecnologias.
 
 <p align="left">
     <a href="https://github.com/EduardoAlkimim?tab=repositories&sort=stargazers">
@@ -80,14 +80,6 @@ Me chamo Eduardo Alkimim Reis, tenho 19 anos e sou natural do Distrito Federal. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 
