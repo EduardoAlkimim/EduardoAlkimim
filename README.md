@@ -12,7 +12,7 @@ Me chamo Eduardo Alkimim Reis, tenho 19 anos e sou natural do Distrito Federal. 
             src="https://custom-icon-badges.demolab.com/github/stars/EduardoAlkimim?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/EduardoAlkimim?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
